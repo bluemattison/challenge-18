@@ -34,5 +34,5 @@ npm run dev
 
 ## Questions
 For additional questions, you can reach me through:
-* GitHub: [Alek901](https://github.com/Alek901)
-* Email: magicguys1@icloud.com
+* GitHub: [bluemattison](https://github.com/bluemattison)
+* Email: mattisonanderson20@gmail.com
